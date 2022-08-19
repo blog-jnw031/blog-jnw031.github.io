@@ -1,5 +1,6 @@
 # <center>个人资料</center>
 
+<center>
 |  名称 |  地址 |
 | :------------: | :------------: |
 |  主页(加载较慢) |  [主页](https://wangjingnuo.github.io/) |
@@ -10,3 +11,4 @@
 |  学术博客 |  [学术博客](https://lubswang031.blog.luogu.org/)  |
 |  生活博客 |  [生活博客](https://www.cnblogs.com/jnw031) |
 |  独立＆综合博客(尚未完全) |  [独立博客](https://blog-jnw031.github.io)  |
+</center>
