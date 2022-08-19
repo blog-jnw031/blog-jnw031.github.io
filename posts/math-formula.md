@@ -1,6 +1,6 @@
 ## <center>数学公式</center>
 
-    <p>\[a^2+b^2=(a+b)^2-2ab\]</p>
+$$a^2+b^2=(a+b)^2-2ab$$
     <p>\[a^n+b^n=(a+b)[a^{n-1}-a^{n-2}b^{n-2}+b^{n-1}]\]</p>
     <p><center></center>\[平方差公式:a^2-b^2=(a+b)(a-b)\]</p>
     <p>\[a^n-b^n=(a-b)[a^{n-1}+a^{n-2}b^{n-2}+b^{n-1}]\]</p>
