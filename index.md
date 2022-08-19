@@ -1,21 +1,9 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <link rel="stylesheet" href="./css/cover.css">
-    <link rel="stylesheet" href="./css/content.css">
-    <link rel="stylesheet" href="./css/style.css">
-    <title>博客列表</title>
-    <link rel="shortcut icon" href="./favicon.ico">
-</head>
+## 博客列表
+1. [个人信息](./posts/personal-information.md)
 
-<body>
-    <div id="blogContent">
-        <div class="apostentry" style="background-color: aliceblue;">
-            <div class="blogtitle"><a href="./posts/personal-information.md" target="_self">个人信息</a></div>
-            <div class="blogabstract">一些平台上的个人资料。</div>
-        </div>
-        <div class="apostentry" style="background-color: bisque;">
-            <div class="blogtitle"><a href="./posts/math-formula.html" target="_self">数学公式</a></div>
+> 一些平台上的个人资料。
+
+2. [数学公式](./posts/math-formula.html)
             <div class="blogabstract">因为把数学公式列出来可以更好的做题，所以我在这里列出我所学的公式。</div>
         </div>
         <div class="apostentry" style="background-color: aquamarine;">
