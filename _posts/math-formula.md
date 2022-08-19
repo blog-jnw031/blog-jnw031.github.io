@@ -1,16 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>数学公式 - jnw031</title>
-    <link rel="stylesheet" href="/css/blogpost.css">
-    <link rel="stylesheet" href="/css/blogstyle.css">
-    <link rel="shortcut icon" href="/favicon.ico">
-    <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML"></script>
-</head>
-
-<body>
-    <div class="rigdown"><a class="switchlang" href="/index.html" target="_self">返回</a></div>
-    <h1 class="title">数学公式</h1>
+## <center>数学公式</center>
     <p>\[a^2+b^2=(a+b)^2-2ab\]</p>
     <p>\[a^n+b^n=(a+b)[a^{n-1}-a^{n-2}b^{n-2}+b^{n-1}]\]</p>
     <p><center></center>\[平方差公式:a^2-b^2=(a+b)(a-b)\]</p>
