@@ -1,6 +1,6 @@
 ## <center>博客列表</center>
 
-1. [个人信息](./_posts/2022/07/28/personal-information.html)
+1. [个人信息](./_posts/2022-07-28-personal-information.html)
 
 > 一些平台上的个人资料。
 
