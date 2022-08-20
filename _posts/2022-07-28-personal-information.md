@@ -11,7 +11,7 @@
 </head>
 
 
-[$ \rule{35pt}{14pt}\kern{-31.5pt}\color{white}\raisebox{4.7pt}{\footnotesize\sf 返回} $](https://blog-jnw031.github.io)
+[←返回主页](https://blog-jnw031.github.io)
 
 # <center>个人资料</center>
 
