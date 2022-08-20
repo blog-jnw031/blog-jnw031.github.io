@@ -8,9 +8,20 @@
             }
         });
     </script>
+    <style>
+        .center {
+            width: auto;
+            display: table;
+            margin-left: auto;
+            margin-right: auto;
+        }
+    </style>
+
 </head>
 
 # <center>个人资料</center>
+
+<div class="center">
 
 |  名称 |  地址 |
 | :------------: | :------------: |
@@ -22,3 +33,5 @@
 |  学术博客 |  [学术博客](https://lubswang031.blog.luogu.org/)  |
 |  生活博客 |  [生活博客](https://www.cnblogs.com/jnw031) |
 |  独立＆综合博客(尚未完全) |  [独立博客](https://blog-jnw031.github.io)  |
+
+</div>
