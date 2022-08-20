@@ -12,5 +12,6 @@ include:
   - CONTRIBUTING.md
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
+markdown: kramdown
 title: JingNuoWang03!'s Blog
 theme: jekyll-theme-slate
