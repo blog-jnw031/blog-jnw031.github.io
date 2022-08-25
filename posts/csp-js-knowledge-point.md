@@ -26,3 +26,34 @@ while(y>0)
 因为整个程序和 $n$ 没有关系，所以被称为常数阶，$O(1)$。
 
 ### O(n)
+
+> 一次阶。时间和规模 $n$ 成一阶线性关系。
+
+```cpp
+int n;
+cin>>n;
+while(n--)
+{
+    cout<<n;
+}
+```
+
+### O(n^3)
+
+> 三阶线性关系。( $n$ 阶以此类推。)
+
+```cpp
+int total=0;
+int n;
+cin>>n;
+for(int i=0;i!=n;i++)
+{
+    for(int j=0;j!=i;j++)
+    {
+        for(int k=0;j!=j;k++)
+        {
+            total++;
+        }
+    }
+}
+```
