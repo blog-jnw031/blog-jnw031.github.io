@@ -15,9 +15,9 @@
 
 # <center>个人资料</center>
 
-主页(加载较慢)：[主页](https://wangjingnuo.github.io/)
+主页(加载较慢)：[主页](https://wangjingnuo.ga/)
 
-站点列表：[站点列表](https://jnw031.github.io/)
+站点列表：[站点列表](https://jnw031.ga/)
 
 洛谷：[洛谷](https://www.luogu.com.cn/user/583833)
 
@@ -27,6 +27,6 @@ B站：[B站](https://space.bilibili.com/589321084)
 
 学术博客：[学术博客](https://lubswang031.blog.luogu.org/)
 
-生活博客：[生活博客](https://www.cnblogs.com/jnw031)
+过去的博客：[过去的博客](https://www.cnblogs.com/jnw031)
 
-独立＆综合博客(尚未完全)：[独立博客](https://blog-jnw031.github.io)
+独立＆综合博客：[独立博客](https://blog.jnw031.ga)
