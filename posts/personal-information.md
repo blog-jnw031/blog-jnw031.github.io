@@ -11,7 +11,7 @@
 </head>
 
 
-[←返回主页](https://blog-jnw031.github.io)
+[←返回主页](https://blog.jnw031.ga)
 
 # <center>个人资料</center>
 
