@@ -14,6 +14,8 @@
 
 ## <center>大 $O$ 时间复杂度表示法</center>
 
+---
+
 ### $O(1)$
 
 > 常数阶。
@@ -71,3 +73,8 @@ for(int i=0;i!=n;i++)
 ```
 
 [原](https://blog.csdn.net/stary_yan/article/details/51383480)
+
+## 后缀表达式法
+
+括号法。
+
