@@ -57,3 +57,5 @@ for(int i=0;i!=n;i++)
     }
 }
 ```
+
+[原](https://blog.csdn.net/stary_yan/article/details/51383480)
