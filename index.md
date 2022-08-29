@@ -1,5 +1,5 @@
 <head>
-    <title>主页▪jnw031的博客</title>
+    <title>主页 ▪ jnw031的博客</title>
     <link rel="shortcut icon" href="./favicon.ico">
     <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
     <script type="text/x-mathjax-config">
